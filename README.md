@@ -8,4 +8,4 @@ The idea is to develop a responsive web resume that you can show to any employer
 
 
 - My Mock Resume
-  ![modal image](/images/Screenshot%202023-11-24%20at%203.20.51%E2%80%AFPM.png)
+  ![modal image](./Screenshot%202023-11-16%20at%205.09.38%E2%80%AFPM.png)
